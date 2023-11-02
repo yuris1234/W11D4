@@ -49,7 +49,7 @@ Next, add the following gems to your Gemfile:
 * Under `group :development`
   * `annotate`
   * `pry-rails`
-  * `better_errors`
+  * `better-errors`
   * `binding_of_caller`
 
 Run `bundle install`.
