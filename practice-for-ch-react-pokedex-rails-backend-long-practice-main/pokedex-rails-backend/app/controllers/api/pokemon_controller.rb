@@ -1,4 +1,4 @@
-class Api::PokemonsController < ApplicationController
+class Api::PokemonController < ApplicationController
     def types
         render json: [
             "fire",
